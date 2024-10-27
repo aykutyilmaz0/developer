@@ -84,7 +84,7 @@ The following examples demonstrate how our base script may be extended and alter
                   "caption": "Example Image"
               },
               "image": {
-                  "@id": "https://www.example.com/images/example.jp"
+                  "@id": "https://www.example.com/images/example.jpg"
               }
           },
           {
